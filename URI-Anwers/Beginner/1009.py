@@ -1,0 +1,5 @@
+NOME=input()
+SALFIXO=float(input())
+MONTANTEDEVENDA=float(input())
+TOTAL=SALFIXO+(MONTANTEDEVENDA*0.15)
+print('TOTAL = R$ {:.2f}'.format(TOTAL))
