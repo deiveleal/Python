@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 {
     "python.dataScience.jupyterServerURI": "local",
     "python.autoComplete.addBrackets": true
+=======
+{
+    "python.dataScience.jupyterServerURI": "local",
+    "python.autoComplete.addBrackets": true
+>>>>>>> 32ffac37b3daa04d1f1c2170a5ece1a729af4bca
 }
